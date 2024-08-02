@@ -1,0 +1,27 @@
+@use"boot";
+@use"layout";
+@use"swiperinit";
+@use"header";
+@use"main";
+@use"footer";
+body{
+    overflow-x: hidden !important;
+    position: relative;
+    background: url(../images/main\ background.webp);
+}
+    .why-section{     background-color:#1a064f ;   
+    
+    
+}
+     .ad-profile{
+        background-color: white;
+}
+    .main-source{
+        background-color: white;
+    }
+    .background-source{
+        background-color: white;
+    }
+    footer{
+        background-color: #140342;
+    }
